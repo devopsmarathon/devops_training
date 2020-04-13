@@ -26,11 +26,11 @@ JUNE 2020
         <td>Week 5 (06/16)</td>      
     </tr>
     <tr>
-        <td>Learn a Programming Language</td>
-        <td>Learn a Programming Language</td>
-        <td>Learn a Programming Language</td>
-        <td>Learn a Programming Language</td>  
-        <td>Understand different OS Concepts</td> 
+        <td>Learn a Programming Language: NodeJS</td>
+        <td>Learn a Programming Language: Python</td>
+        <td>Learn a Programming Language: Ruby</td>
+        <td>Understand different OS Concepts: Process Management, Threads and Concurrency and Sockets</td>  
+        <td>Understand different OS Concepts: Network Concepts, Service Management and I/O Management</td> 
         <tr>
         <td>Week 5 (06/18)</td>
         <td>Week 6 (06/23)</td>
@@ -38,10 +38,10 @@ JUNE 2020
         <td>Week 7 (06/30)</td>
     </tr>
     <tr>
-        <td>Understand different OS Concepts</td>
-        <td>Understand different OS Concepts</td>
-        <td>Understand different OS Concepts</td>
-        <td>Operating Systems</td> 
+        <td>Understand different OS Concepts: Virtualization, Memory/Storage, File Systems and Startup Management</td>
+        <td>Operating Systems: RHEL</td>
+        <td>Network, Security and Protocols: HTTP, HTTPS and SSL/TLS</td>
+        <td>Network, Security and Protocols: FTP, SSH and Port Forwarding</td> 
     </tr>
 </table>
 
@@ -55,18 +55,18 @@ JULY 2020
         <td>Week 9 (07/16)</td>      
     </tr>
     <tr>
-        <td>Operating Systems</td>
-        <td>Operating Systems</td>
-        <td>Operating Systems</td>
-        <td>Network, Security and Protocols</td>  
-        <td>Network, Security and Protocols</td> 
+        <td>What is and how setup: Reverse Proxy, Forward Proxy and Caching Server</td>
+        <td>What is and how setup: Load Balancer, Firewall and WebServer</td>  
+        <td>Learn Infrastructure as Code: Service Mesh</td> 
+        <td>Learn Infrastructure as Code: Containers (Docker)</td>
+        <td>Learn Infrastructure as Code: Configuration Management (Ansible)</td>
         <tr>
         <td>Week 10 (07/21)</td>
         <td>Week 10 (07/23)</td>                
     </tr>
     <tr>
-        <td>Network, Security and Protocols</td>
-        <td>Network, Security and ProtocolsA</td>
+        <td>Learn Infrastructure as Code: Configuration Management (Puppet)</td>
+        <td>Learn Infrastructure as Code: Container Orchestration (Kubernetes)</td>
     </tr>
 </table>
 
@@ -80,18 +80,18 @@ SEPTEMBER 2020
         <td>Week 13 (09/22)</td>      
     </tr>
     <tr>
-        <td>What is and how setup</td>
-        <td>What is and how setup</td>
-        <td>What is and how setup</td>
-        <td>What is and how setup</td>  
-        <td>Learn Infrastructure as Code</td> 
+        <td>Learn Infrastructure as Code: Infrastructure Provisioning (Terraform)</td>
+        <td>Learn CI/CD Tool: GitLab CI and GitHub</td>
+        <td>Learn CI/CD Tool: Jenkins</td>
+        <td>Learn how to monitor software and infrasctructure: Infrastructure Monitoring (Nagios and Zabbix)</td>  
+        <td>Learn how to monitor software and infrasctructure: Application Monitoring (New Relic and Dynatrace)</td> 
         <tr>
         <td>Week 13 (09/24)</td>
         <td>Week 14 (09/29)</td>  
     </tr>
     <tr>
-        <td>Learn Infrastructure as Code</td>
-        <td>Learn Infrastructure as Code</td>
+        <td>Learn how to monitor software and infrasctructure: Logs Management (Elastic Stack and Splunk)</td>
+        <td>Cloud Providers: Concepts and Amazon Web Services</td>
     </tr>
 </table>
 
@@ -105,46 +105,19 @@ OCTOBER
         <td>Week 16 (10/20)</td>      
     </tr>
     <tr>
-        <td>Learn Infrastructure as Code</td>
-        <td>Learn CI/CD Tool</td>
-        <td>Learn CI/CD Tool</td>
-        <td>Learn CI/CD Tool</td>  
-        <td>Learn CI/CD Tool</td> 
+        <td>Cloud Providers: Google Cloud</td>
+        <td>Cloud Providers: Google IBM Cloud</td>
+        <td>Cloud Providers: Microsoft Azure</td>
+        <td>Cloud Design Patters: Availability and Data Management</td>  
+        <td>Cloud Design Patters: Design and Implemementation</td> 
         <tr>
         <td>Week 17 (10/22)</td>
         <td>Week 17 (10/27)</td>
         <td>Week 18 (10/29)</td>
     </tr>
     <tr>
-        <td>Learn how to monitor software and infrasctructure</td>
-        <td>Learn how to monitor software and infrasctructure</td>
-        <td>Learn how to monitor software and infrasctructure</td>
-    </tr>
-</table>
-
-NOVEMBER
-<table border="2">
-    <tr>
-        <td>Week 18 (11/03)</td>
-        <td>Week 19 (11/05)</td>
-        <td>Week 19 (11/10)</td>
-        <td>Week 20 (11/12)</td>
-        <td>Week 20 (11/17)</td>      
-    </tr>
-    <tr>
-        <td>Learn how to monitor software and infrasctructure</td>
-        <td>Cloud Providers</td>
-        <td>Cloud Providers</td>
-        <td>Cloud Providers</td>  
-        <td>Cloud Providers</td> 
-        <tr>
-        <td>Week 21 (11/19)</td>
-        <td>Week 21 (11/24)</td>
-        <td>Week 22 (11/26)</td>     
-    </tr>
-    <tr>
-        <td>Cloud Design Patters</td>
-        <td>Cloud Design Patters</td>
-        <td>Cloud Design Patters</td>
+        <td>Cloud Design Patters: Management and Monitoring</td>
+        <td>DevSecOps: Concepts</td>
+        <td>DevSecOps: Where apply?</td>
     </tr>
 </table>
