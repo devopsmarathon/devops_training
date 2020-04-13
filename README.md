@@ -9,14 +9,10 @@ MAY 2020
         <td>Week 2 (05/28)</td>
     </tr>
     <tr>
-        <td>TESTE PARA CONTEÚDO <br>
-          DA PÁGINA</td>
-        <td>TESTE PARA CONTEÚDO <br>
-          DA PÁGINA</td>
-        <td>TESTE PARA CONTEÚDO <br>
-          DA PÁGINA</td>
-        <td>TESTE PARA CONTEÚDO <br>
-          DA PÁGINA</td>
+        <td>Cloud Concepts</td>
+        <td>Cloud Concepts</td>
+        <td>DevOps Concepts</td>
+        <td>DevOps Concepts</td>
     </tr>
 </table>
 
@@ -30,16 +26,11 @@ JUNE 2020
         <td>Week 5 (06/16)</td>      
     </tr>
     <tr>
-        <td>TESTE PARA CONTEÚDO <br>
-          DA PÁGINA</td>
-        <td>TESTE PARA CONTEÚDO <br>
-          DA PÁGINA</td>
-        <td>TESTE PARA CONTEÚDO <br>
-          DA PÁGINA</td>
-        <td>TESTE PARA CONTEÚDO <br>
-          DA PÁGINA</td>  
-        <td>TESTE PARA CONTEÚDO <br>
-          DA PÁGINA</td> 
+        <td>Learn a Programming Language</td>
+        <td>Learn a Programming Language</td>
+        <td>Learn a Programming Language</td>
+        <td>Learn a Programming Language</td>  
+        <td>Understand different OS Concepts</td> 
         <tr>
         <td>Week 5 (06/18)</td>
         <td>Week 6 (06/23)</td>
@@ -47,14 +38,10 @@ JUNE 2020
         <td>Week 7 (06/30)</td>
     </tr>
     <tr>
-        <td>TESTE PARA CONTEÚDO <br>
-          DA PÁGINA</td>
-        <td>TESTE PARA CONTEÚDO <br>
-          DA PÁGINA</td>
-        <td>TESTE PARA CONTEÚDO <br>
-          DA PÁGINA</td>
-        <td>TESTE PARA CONTEÚDO <br>
-          DA PÁGINA</td> 
+        <td>Understand different OS Concepts</td>
+        <td>Understand different OS Concepts</td>
+        <td>Understand different OS Concepts</td>
+        <td>Operating Systems</td> 
     </tr>
 </table>
 
@@ -68,25 +55,18 @@ JULY 2020
         <td>Week 9 (07/16)</td>      
     </tr>
     <tr>
-        <td>TESTE PARA CONTEÚDO <br>
-          DA PÁGINA</td>
-        <td>TESTE PARA CONTEÚDO <br>
-          DA PÁGINA</td>
-        <td>TESTE PARA CONTEÚDO <br>
-          DA PÁGINA</td>
-        <td>TESTE PARA CONTEÚDO <br>
-          DA PÁGINA</td>  
-        <td>TESTE PARA CONTEÚDO <br>
-          DA PÁGINA</td> 
+        <td>Operating Systems</td>
+        <td>Operating Systems</td>
+        <td>Operating Systems</td>
+        <td>Network, Security and Protocols</td>  
+        <td>Network, Security and Protocols</td> 
         <tr>
         <td>Week 10 (07/21)</td>
         <td>Week 10 (07/23)</td>                
     </tr>
     <tr>
-        <td>TESTE PARA CONTEÚDO <br>
-          DA PÁGINA</td>
-        <td>TESTE PARA CONTEÚDO <br>
-          DA PÁGINA</td>
+        <td>Network, Security and Protocols</td>
+        <td>Network, Security and ProtocolsA</td>
     </tr>
 </table>
 
@@ -100,25 +80,18 @@ SEPTEMBER 2020
         <td>Week 13 (09/22)</td>      
     </tr>
     <tr>
-        <td>TESTE PARA CONTEÚDO <br>
-          DA PÁGINA</td>
-        <td>TESTE PARA CONTEÚDO <br>
-          DA PÁGINA</td>
-        <td>TESTE PARA CONTEÚDO <br>
-          DA PÁGINA</td>
-        <td>TESTE PARA CONTEÚDO <br>
-          DA PÁGINA</td>  
-        <td>TESTE PARA CONTEÚDO <br>
-          DA PÁGINA</td> 
+        <td>What is and how setup</td>
+        <td>What is and how setup</td>
+        <td>What is and how setup</td>
+        <td>What is and how setup</td>  
+        <td>Learn Infrastructure as Code</td> 
         <tr>
         <td>Week 13 (09/24)</td>
         <td>Week 14 (09/29)</td>  
     </tr>
     <tr>
-        <td>TESTE PARA CONTEÚDO <br>
-          DA PÁGINA</td>
-        <td>TESTE PARA CONTEÚDO <br>
-          DA PÁGINA</td>
+        <td>Learn Infrastructure as Code</td>
+        <td>Learn Infrastructure as Code</td>
     </tr>
 </table>
 
@@ -132,27 +105,20 @@ OCTOBER
         <td>Week 16 (10/20)</td>      
     </tr>
     <tr>
-        <td>TESTE PARA CONTEÚDO <br>
-          DA PÁGINA</td>
-        <td>TESTE PARA CONTEÚDO <br>
-          DA PÁGINA</td>
-        <td>TESTE PARA CONTEÚDO <br>
-          DA PÁGINA</td>
-        <td>TESTE PARA CONTEÚDO <br>
-          DA PÁGINA</td>  
-        <td>TESTE PARA CONTEÚDO <br>
-          DA PÁGINA</td> 
+        <td>Learn Infrastructure as Code</td>
+        <td>Learn CI/CD Tool</td>
+        <td>Learn CI/CD Tool</td>
+        <td>Learn CI/CD Tool</td>  
+        <td>Learn CI/CD Tool</td> 
         <tr>
         <td>Week 17 (10/22)</td>
         <td>Week 17 (10/27)</td>
         <td>Week 18 (10/29)</td>
     </tr>
     <tr>
-        <td>TESTE PARA CONTEÚDO <br>
-          DA PÁGINA</td>
-        <td>TESTE PARA CONTEÚDO <br>
-          DA PÁGINA</td>
-        <td>TESTE PARA CONTEÚDO <br>
+        <td>Learn how to monitor software and infrasctructure</td>
+        <td>Learn how to monitor software and infrasctructure</td>
+        <td>Learn how to monitor software and infrasctructure</td>
     </tr>
 </table>
 
@@ -166,27 +132,19 @@ NOVEMBER
         <td>Week 20 (11/17)</td>      
     </tr>
     <tr>
-        <td>TESTE PARA CONTEÚDO <br>
-          DA PÁGINA</td>
-        <td>TESTE PARA CONTEÚDO <br>
-          DA PÁGINA</td>
-        <td>TESTE PARA CONTEÚDO <br>
-          DA PÁGINA</td>
-        <td>TESTE PARA CONTEÚDO <br>
-          DA PÁGINA</td>  
-        <td>TESTE PARA CONTEÚDO <br>
-          DA PÁGINA</td> 
+        <td>Learn how to monitor software and infrasctructure</td>
+        <td>Cloud Providers</td>
+        <td>Cloud Providers</td>
+        <td>Cloud Providers</td>  
+        <td>Cloud Providers</td> 
         <tr>
         <td>Week 21 (11/19)</td>
         <td>Week 21 (11/24)</td>
         <td>Week 22 (11/26)</td>     
     </tr>
     <tr>
-        <td>TESTE PARA CONTEÚDO <br>
-          DA PÁGINA</td>
-        <td>TESTE PARA CONTEÚDO <br>
-          DA PÁGINA</td>
-        <td>TESTE PARA CONTEÚDO <br>
-          DA PÁGINA</td>
+        <td>Cloud Design Patters</td>
+        <td>Cloud Design Patters</td>
+        <td>Cloud Design Patters</td>
     </tr>
 </table>
