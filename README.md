@@ -1,5 +1,6 @@
 # DevOps Training
 
+MAY 2020
 <table border="2">
     <tr>
         <td>Week 1 (05/19)</td>
@@ -19,6 +20,7 @@
     </tr>
 </table>
 
+JUNE 2020
 <table border="2">
     <tr>
         <td>Week 3 (06/02)</td>
@@ -55,6 +57,8 @@
           DA PÁGINA</td> 
     </tr>
 </table>
+
+JULY 2020
 <table border="2">
     <tr>
         <td>Week 7 (07/02)</td>
@@ -83,8 +87,10 @@
           DA PÁGINA</td>
         <td>TESTE PARA CONTEÚDO <br>
           DA PÁGINA</td>
-</tr>
+    </tr>
 </table>
+
+SEPTEMBER 2020
 <table border="2">
     <tr>
         <td>Week 11 (09/08)</td>
@@ -115,6 +121,8 @@
           DA PÁGINA</td>
     </tr>
 </table>
+
+OCTOBER
 <table border="2">
     <tr>
         <td>Week 14 (10/01)</td>
@@ -147,6 +155,8 @@
         <td>TESTE PARA CONTEÚDO <br>
     </tr>
 </table>
+
+NOVEMBER
 <table border="2">
     <tr>
         <td>Week 18 (11/03)</td>
