@@ -5,7 +5,7 @@
 MAY 2020
 <table border="2">
     <tr>
-        <td width=250 align=center><b>Week 1 (05/19)</b></font></td>
+        <td width=250 align=center><b>Week 1 (05/19)</b></td>
         <td width=250 align=center><b>Week 1 (05/21)</b></td>
         <td width=250 align=center><b>Week 2 (05/26)</b></td>
         <td width=250 align=center><b>Week 2 (05/28)</b></td>
@@ -36,7 +36,7 @@ JUNE 2020
     </tr>
     <tr>
         <td width=200 align=center><b>Week 5 (06/18)</b></td>
-        <td width=200 align=center><b>Week 6 (06/23)</b>/td>
+        <td width=200 align=center><b>Week 6 (06/23)</b></td>
         <td width=200 align=center><b>Week 6 (06/25)</b></td>
         <td width=200 align=center><b>Week 7 (06/30)</b></td>
     </tr>
