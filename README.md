@@ -1,6 +1,6 @@
 <html>
 
-# DevOps Training
+## DevOps Training
 
 MAY 2020
 <table border="2">
@@ -11,10 +11,10 @@ MAY 2020
         <td width=250 align=center><b>Week 2 (05/28)</b></td>
     </tr>
     <tr>
-        <td width=250 align=center>Cloud Concepts</td>
-        <td width=250 align=center>Cloud Concepts</td>
-        <td width=250 align=center>DevOps Concepts</td>
-        <td width=250 align=center>DevOps Concepts</td>
+        <td width=250 align=center><i><b>Cloud Concepts</b></i></td>
+        <td width=250 align=center><i><b>Cloud Concepts</b></i></td>
+        <td width=250 align=center><i><b>DevOps Concepts</b></i></td>
+        <td width=250 align=center><i><b>DevOps Concepts</b></i></td>
     </tr>
 </table>
 
@@ -28,11 +28,11 @@ JUNE 2020
         <td width=200 align=center><b>Week 5 (06/16)</b></td>      
     </tr>
     <tr>
-        <td width=200 align=center>Learn a Programming Language: NodeJS</td>
-        <td width=200 align=center>Learn a Programming Language: Python</td>
-        <td width=200 align=center>Learn a Programming Language: Ruby</td>
-        <td width=200 align=center>Understand different OS Concepts: Process Management, Threads and Concurrency and Sockets</td width=200 align=center>  
-        <td width=200 align=center>Understand different OS Concepts: Network Concepts, Service Management and I/O Management</td> 
+        <td width=200 align=center><i><b>Learn a Programming Language: </b>NodeJS</i></td>
+        <td width=200 align=center><i><b>Learn a Programming Language: </b>Python</i></td>
+        <td width=200 align=center><i><b>Learn a Programming Language: </b>Ruby</i></td>
+        <td width=200 align=center><i><b>Understand different OS Concepts: </b>Process Management, Threads and Concurrency and Sockets</i></td>  
+        <td width=200 align=center><i><b>Understand different OS Concepts: </b>Network Concepts, Service Management and I/O Management</i></td> 
     </tr>
     <tr>
         <td width=200 align=center><b>Week 5 (06/18)</b></td>
@@ -41,10 +41,10 @@ JUNE 2020
         <td width=200 align=center><b>Week 7 (06/30)</b></td>
     </tr>
     <tr>
-        <td width=200 align=center>Understand different OS Concepts: Virtualization, Memory/Storage, File Systems and Startup Management</td>
-        <td width=200 align=center>Operating Systems: RHEL</td>
-        <td width=200 align=center>Network, Security and Protocols: HTTP, HTTPS and SSL/TLS</td>
-        <td width=200 align=center>Network, Security and Protocols: FTP, SSH and Port Forwarding</td> 
+        <td width=200 align=center><i><b>Understand different OS Concepts: </b>Virtualization, Memory/Storage, File Systems and Startup Management</i></td>
+        <td width=200 align=center><i><b>Operating Systems: </b>RHEL</i></td>
+        <td width=200 align=center><i><b>Network, Security and Protocols: </b>HTTP, HTTPS and SSL/TLS</i></td>
+        <td width=200 align=center><i><b>Network, Security and Protocols: </b>FTP, SSH and Port Forwarding</i></td> 
     </tr>
 </table>
 
@@ -58,19 +58,19 @@ JULY 2020
         <td width=200 align=center><b>Week 9 (07/16)</b></td>      
     </tr>
     <tr>
-        <td width=200 align=center>What is and how setup: Reverse Proxy, Forward Proxy and Caching Server</td>
-        <td width=200 align=center>What is and how setup: Load Balancer, Firewall and WebServer</td>  
-        <td width=200 align=center>Learn Infrastructure as Code: Service Mesh</td> 
-        <td width=200 align=center>Learn Infrastructure as Code: Containers (Docker)</td>
-        <td width=200 align=center>Learn Infrastructure as Code: Configuration Management (Ansible)</td>
+        <td width=200 align=center><i><b>What is and how setup: </b>Reverse Proxy, Forward Proxy and Caching Server</i></td>
+        <td width=200 align=center><i><b>What is and how setup: </b>Load Balancer, Firewall and WebServer</i></td>  
+        <td width=200 align=center><i><b>Learn Infrastructure as Code: </b>Service Mesh</i></td> 
+        <td width=200 align=center><i><b>Learn Infrastructure as Code: </b>Containers (Docker)</i></td>
+        <td width=200 align=center><i><b>Learn Infrastructure as Code: </b>Configuration Management (Ansible)</i></td>
     </tr>
     <tr>
         <td width=200 align=center><b>Week 10 (07/21)</b></td>
         <td width=200 align=center><b>Week 10 (07/23)</b></td>                
     </tr>
     <tr>
-        <td width=200 align=center>Learn Infrastructure as Code: Configuration Management (Puppet)</td>
-        <td width=200 align=center>Learn Infrastructure as Code: Container Orchestration (Kubernetes)</td>
+        <td width=200 align=center><i><b>Learn Infrastructure as Code: </b>Configuration Management (Puppet)</i></td>
+        <td width=200 align=center><i><b>Learn Infrastructure as Code: </b>Container Orchestration (Kubernetes)</i></td>
     </tr>
 </table>
 
@@ -84,19 +84,19 @@ SEPTEMBER 2020
         <td width=200 align=center><b>Week 13 (09/22)</b></td>      
     </tr>
     <tr>
-        <td width=200 align=center>Learn Infrastructure as Code: Infrastructure Provisioning (Terraform)</td>
-        <td width=200 align=center>Learn CI/CD Tool: GitLab CI and GitHub</td>
-        <td width=200 align=center>Learn CI/CD Tool: Jenkins</td>
-        <td width=200 align=center>Learn how to monitor software and infrasctructure: Infrastructure Monitoring (Nagios and Zabbix)</td>  
-        <td width=200 align=center>Learn how to monitor software and infrasctructure: Application Monitoring (New Relic and Dynatrace)</td> 
+        <td width=200 align=center><i><b>Learn Infrastructure as Code: </b>Infrastructure Provisioning (Terraform)</i></td>
+        <td width=200 align=center><i><b>Learn CI/CD Tool: </b>GitLab CI and GitHub</i></td>
+        <td width=200 align=center><i><b>Learn CI/CD Tool: </b>Jenkins</i></td>
+        <td width=200 align=center><i><b>Learn how to monitor software and infrasctructure: </b>Infrastructure Monitoring (Nagios and Zabbix)</i></td>  
+        <td width=200 align=center>Learn how to monitor software and infrasctructure: </b>Application Monitoring (New Relic and Dynatrace)</i></td> 
     </tr>
     <tr>
         <td width=200 align=center><b>Week 13 (09/24)</b></td>
         <td width=200 align=center><b>Week 14 (09/29)</b></td>  
     </tr>
     <tr>
-        <td width=200 align=center>Learn how to monitor software and infrasctructure: Logs Management (Elastic Stack and Splunk)</td>
-        <td width=200 align=center>Cloud Providers: Concepts and Amazon Web Services</td>
+        <td width=200 align=center><i><b>Learn how to monitor software and infrasctructure: </b>Logs Management (Elastic Stack and Splunk)</i></td>
+        <td width=200 align=center><i><b>Cloud Providers: Concepts and Amazon Web Services</i></td>
     </tr>
 </table>
 
@@ -110,11 +110,11 @@ OCTOBER
         <td width=200 align=center><b>Week 16 (10/20)</b></td>      
     </tr>
     <tr>
-        <td width=200 align=center>Cloud Providers: Google Cloud</td>
-        <td width=200 align=center bgcolor="#D3D3D3">Cloud Providers: Google IBM Cloud</td>
-        <td width=200 align=center>Cloud Providers: Microsoft Azure</td>
-        <td width=200 align=center>Cloud Design Patters: Availability and Data Management</td>  
-        <td width=200 align=center>Cloud Design Patters: Design and Implemementation</td> 
+        <td width=200 align=center><i><b>Cloud Providers: </b>Google Cloud</i></td>
+        <td width=200 align=center><i><b>Cloud Providers: </b>Google IBM Cloud</i></td>
+        <td width=200 align=center><i><b>Cloud Providers: </b>Microsoft Azure</i></td>
+        <td width=200 align=center><i><b>Cloud Design Patters: </b>Availability and Data Management</i></td>  
+        <td width=200 align=center><i><b>Cloud Design Patters: </b>Design and Implemementation</i></td> 
     </tr>
    <tr>
         <td width=200 align=center><b>Week 17 (10/22)</b></td>
@@ -122,9 +122,9 @@ OCTOBER
         <td width=200 align=center><b>Week 18 (10/29)</b></td>
     </tr>
     <tr>
-        <td width=200 align=center>Cloud Design Patters: Management and Monitoring</td>
-        <td width=200 align=center>DevSecOps: Concepts</td>
-        <td width=200 align=center>DevSecOps: Where apply?</td>
+        <td width=200 align=center><i><b>Cloud Design Patters: </b>Management and Monitoring</i></td>
+        <td width=200 align=center><i><b>DevSecOps: </b>Concepts</i></td>
+        <td width=200 align=center><i><b>DevSecOps: </b>here apply?</i></td>
     </tr>
 </table>
 </html>
