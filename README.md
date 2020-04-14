@@ -1,8 +1,8 @@
 <html>
 
-## DevOps Training
+# DevOps Training
 
-MAY 2020
+## MAY 2020
 <table border="2">
     <tr>
         <td width=250 align=center><b>Week 1 (05/19)</b></td>
@@ -18,7 +18,7 @@ MAY 2020
     </tr>
 </table>
 
-JUNE 2020
+## JUNE 2020
 <table border="2">
    <tr>
         <td width=200 align=center><b>Week 3 (06/02)</b></td>
@@ -48,7 +48,7 @@ JUNE 2020
     </tr>
 </table>
 
-JULY 2020
+## JULY 2020
 <table border="2">
    <tr>
         <td width=200 align=center><b>Week 7 (07/02)</b></td>
@@ -74,7 +74,7 @@ JULY 2020
     </tr>
 </table>
 
-SEPTEMBER 2020
+## SEPTEMBER 2020
 <table border="2">
     <tr>
         <td width=200 align=center><b>Week 11 (09/08)</b></td>
@@ -100,7 +100,7 @@ SEPTEMBER 2020
     </tr>
 </table>
 
-OCTOBER
+## OCTOBER
 <table border="2">
    <tr>
         <td width=200 align=center><b>Week 14 (10/01)</b></td>
