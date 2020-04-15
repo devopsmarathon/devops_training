@@ -124,7 +124,7 @@
     <tr>
         <td width=200 align=center><i><b>Cloud Design Patters: </b>Management and Monitoring</i></td>
         <td width=200 align=center><i><b>DevSecOps: </b>Concepts</i></td>
-        <td width=200 align=center><i><b>DevSecOps: </b>here apply?</i></td>
+        <td width=200 align=center><i><b>DevSecOps: </b>Where apply?</i></td>
     </tr>
 </table>
 </html>
