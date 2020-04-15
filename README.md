@@ -96,7 +96,7 @@
     </tr>
     <tr>
         <td width=200 align=center><i><b>Learn how to monitor software and infrasctructure: </b>Logs Management (Elastic Stack and Splunk)</i></td>
-        <td width=200 align=center><i><b>Cloud Providers: Concepts and Amazon Web Services</i></td>
+        <td width=200 align=center><i><b>Cloud Providers: </b>Concepts and Amazon Web Services</i></td>
     </tr>
 </table>
 
